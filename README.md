@@ -6,7 +6,7 @@ https://img.shields.io/badge/python-3.6+-blue.svg
 https://img.shields.io/badge/license-MIT-green.svg
 https://img.shields.io/badge/platform-Linux-lightgrey.svg
 📸 Screenshots
-<p align="center"> <img src="screenshots/menu.png" alt="Main Menu" width="600"/> <br/> <em>Interactive menu with colorful terminal output</em> </p>
+<p align="center"> <img src="menu.png" alt="Main Menu" width="600"/> <br/> <em>Interactive menu with colorful terminal output</em> </p>
 ✨ Features
 
     🎨 Beautiful colored terminal interface with intuitive visual feedback

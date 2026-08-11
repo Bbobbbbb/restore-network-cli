@@ -153,16 +153,6 @@ iw dev wlan0 info
 # Check supported modes
 iw list | grep "Supported interface modes" -A 8
 
-📁 File Structure
-text
-
-restore-network-cli/
-├── restore-network-cli.py    # Main application script
-├── README.md                 # This documentation
-├── LICENSE                   # MIT License
-└── screenshots/              # Screenshot images (optional)
-    └── menu.png
-
 🤝 Contributing
 
 Contributions are welcome! Here's how you can help:

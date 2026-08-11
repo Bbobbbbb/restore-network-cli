@@ -2,10 +2,6 @@ WiFi Mode Switcher 🌐
 
 A beautiful, interactive command-line tool for switching wireless interfaces between Monitor and Managed modes on Linux systems. Perfect for penetration testing, network analysis, and Wi-Fi troubleshooting.
 
-https://img.shields.io/badge/python-3.6+-blue.svg
-https://img.shields.io/badge/license-MIT-green.svg
-https://img.shields.io/badge/platform-Linux-lightgrey.svg
-📸 Screenshots
 <p align="center"> <img src="menu.png" alt="Main Menu" width="600"/> <br/> <em>Interactive menu with colorful terminal output</em> </p>
 ✨ Features
 
